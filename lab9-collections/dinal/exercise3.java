@@ -1,4 +1,4 @@
-package lab;
+package dinal;
 
 import java.util.HashSet;
 import java.util.Scanner;

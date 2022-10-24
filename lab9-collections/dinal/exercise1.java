@@ -1,4 +1,4 @@
-package lab;
+package dinal;
 
 import java.util.ArrayList;
 import java.util.Scanner;
